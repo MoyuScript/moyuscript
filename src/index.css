@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-klee-red: rgb(195, 80, 78);
+  --color-klee-yellow: rgb(255 255 227);
+  --color-klee-black: rgb(112, 49, 32);
+}
+
+html {
+  background: linear-gradient(to bottom, #de5856, #e68e7c) fixed;
+  @apply text-sm text-klee-black;
+}
+
+a {
+  @apply text-blue-500 cursor-pointer hover:text-blue-400 transition-colors
+}
