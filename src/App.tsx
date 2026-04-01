@@ -173,6 +173,16 @@ function App() {
                   https://music.keli.moe/
                 </a>
               </li>
+              <li>
+                <strong>蓝鸟猎手：</strong>
+                <a
+                  href="https://bhr.96neko.work/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  https://bhr.96neko.work/
+                </a>
+              </li>
             </ul>
           </Section>
         </div>
